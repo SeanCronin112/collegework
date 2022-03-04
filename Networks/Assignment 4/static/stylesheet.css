@@ -1,0 +1,95 @@
+body {
+    background-color: lightgray;
+}
+
+/* --------------------------------- Homepage ----------------------------------------------------*/
+
+.homepage {
+    font-size: 250%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.homepage h1 {
+    font-size: 200%;
+    margin-left: 10%;
+}
+
+.homepage h2 {
+    font-size: 150%;
+    margin-left: 15%;
+}
+
+
+
+/* ----------------------------------- Name ------------------------------------------------------*/
+
+.name h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: 800%;
+    margin-top: 15%;
+}
+
+/* ----------------------------------- Form ------------------------------------------------------*/
+
+.form {
+    font-size: 200%;
+    width: 60%;
+    border: 5px solid #000000;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+.form h1 {
+    width: 10%;
+    margin-top: 2.5%;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-bottom: 2.5%;
+    font-size: 250%;
+    font-family: "Lucida Console";
+}
+
+.form input[type=text] {
+    width: 40%;
+    line-height: 40px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+
+
+.form input[type=submit] {
+    width: 20%;
+    line-height: 28px;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 5px;
+    box-sizing: border-box;
+    size: 25;
+  }
+
+/* -------------------------------------------------Table--------------------------------------------------- */
+
+table {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2.5%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    font-size: 300%;
+    border: 1px solid black;
+}
+
+td {
+    font-size: 175%;
+    border: 1px solid black;
+}
